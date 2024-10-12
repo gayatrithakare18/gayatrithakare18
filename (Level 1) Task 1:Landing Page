@@ -29,8 +29,8 @@
 
     <footer>
       <p>
-        &copy; 2023 Your Company. All rights reserved.<br />
-        Owner- Aditya Konda <br />
+        &copy; 2024 Your Company. All rights reserved.<br />
+        Owner- Gayatri Thakare <br />
         Web Development Internship (Level 1:- Task 1)
       </p>
     </footer>
